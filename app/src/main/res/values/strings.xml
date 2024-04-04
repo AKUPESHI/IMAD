@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Epoch</string>
+    <string name="result_will_be_displayed_here">\"result will be displayed here\"</string>
+    <string name="enter_age">Enter age</string>
+    <string name="generate_history">Generate History</string>
+    <string name="clear">Clear</string>
+    <string name="tvResult">.</string>
+</resources>
